@@ -1,0 +1,27 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.resim {
+  min-height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.resim1 {
+  background-image: url(resim1.jpg);
+}
+.resim2 {
+  background-image: url(resim2.jpg);
+}
+.resim3 {
+  background-image: url(resim3.jpg);
+}
+.resim4 {
+  background-image: url(resim4.jpg);
+}
